@@ -1,0 +1,12 @@
+{
+  [
+    
+    {
+      "ConnectionStrings": 
+        
+        "Server=(localdb)\\mssqllocaldb;Database=AuthSystem;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  ]
+
+  
+}
